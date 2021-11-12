@@ -1,0 +1,24 @@
+{
+  "name": "xcx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "miniprogram-sm-crypto": "^0.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuiancocos2d/xcx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuiancocos2d/xcx/issues"
+  },
+  "homepage": "https://github.com/wuiancocos2d/xcx#readme"
+}
